@@ -1,0 +1,15 @@
+D:\ddd\Computaion theory\TuringMachineIncrement\TuringMachineIncrement\bin\Debug\net7.0\TuringMachineIncrement.exe
+D:\ddd\Computaion theory\TuringMachineIncrement\TuringMachineIncrement\bin\Debug\net7.0\TuringMachineIncrement.deps.json
+D:\ddd\Computaion theory\TuringMachineIncrement\TuringMachineIncrement\bin\Debug\net7.0\TuringMachineIncrement.runtimeconfig.json
+D:\ddd\Computaion theory\TuringMachineIncrement\TuringMachineIncrement\bin\Debug\net7.0\TuringMachineIncrement.dll
+D:\ddd\Computaion theory\TuringMachineIncrement\TuringMachineIncrement\bin\Debug\net7.0\TuringMachineIncrement.pdb
+D:\ddd\Computaion theory\TuringMachineIncrement\TuringMachineIncrement\obj\Debug\net7.0\TuringMachineIncrement.csproj.AssemblyReference.cache
+D:\ddd\Computaion theory\TuringMachineIncrement\TuringMachineIncrement\obj\Debug\net7.0\TuringMachineIncrement.GeneratedMSBuildEditorConfig.editorconfig
+D:\ddd\Computaion theory\TuringMachineIncrement\TuringMachineIncrement\obj\Debug\net7.0\TuringMachineIncrement.AssemblyInfoInputs.cache
+D:\ddd\Computaion theory\TuringMachineIncrement\TuringMachineIncrement\obj\Debug\net7.0\TuringMachineIncrement.AssemblyInfo.cs
+D:\ddd\Computaion theory\TuringMachineIncrement\TuringMachineIncrement\obj\Debug\net7.0\TuringMachineIncrement.csproj.CoreCompileInputs.cache
+D:\ddd\Computaion theory\TuringMachineIncrement\TuringMachineIncrement\obj\Debug\net7.0\TuringMachineIncrement.dll
+D:\ddd\Computaion theory\TuringMachineIncrement\TuringMachineIncrement\obj\Debug\net7.0\refint\TuringMachineIncrement.dll
+D:\ddd\Computaion theory\TuringMachineIncrement\TuringMachineIncrement\obj\Debug\net7.0\TuringMachineIncrement.pdb
+D:\ddd\Computaion theory\TuringMachineIncrement\TuringMachineIncrement\obj\Debug\net7.0\TuringMachineIncrement.genruntimeconfig.cache
+D:\ddd\Computaion theory\TuringMachineIncrement\TuringMachineIncrement\obj\Debug\net7.0\ref\TuringMachineIncrement.dll

@@ -1,0 +1,29 @@
+D:\HPC\train\minimization DFA\minimization DFA\bin\Debug\net7.0\minimization DFA.exe
+D:\HPC\train\minimization DFA\minimization DFA\bin\Debug\net7.0\minimization DFA.deps.json
+D:\HPC\train\minimization DFA\minimization DFA\bin\Debug\net7.0\minimization DFA.runtimeconfig.json
+D:\HPC\train\minimization DFA\minimization DFA\bin\Debug\net7.0\minimization DFA.dll
+D:\HPC\train\minimization DFA\minimization DFA\bin\Debug\net7.0\minimization DFA.pdb
+D:\HPC\train\minimization DFA\minimization DFA\obj\Debug\net7.0\minimization DFA.GeneratedMSBuildEditorConfig.editorconfig
+D:\HPC\train\minimization DFA\minimization DFA\obj\Debug\net7.0\minimization DFA.AssemblyInfoInputs.cache
+D:\HPC\train\minimization DFA\minimization DFA\obj\Debug\net7.0\minimization DFA.AssemblyInfo.cs
+D:\HPC\train\minimization DFA\minimization DFA\obj\Debug\net7.0\minimization DFA.csproj.CoreCompileInputs.cache
+D:\HPC\train\minimization DFA\minimization DFA\obj\Debug\net7.0\minimization DFA.dll
+D:\HPC\train\minimization DFA\minimization DFA\obj\Debug\net7.0\refint\minimization DFA.dll
+D:\HPC\train\minimization DFA\minimization DFA\obj\Debug\net7.0\minimization DFA.pdb
+D:\HPC\train\minimization DFA\minimization DFA\obj\Debug\net7.0\minimization DFA.genruntimeconfig.cache
+D:\HPC\train\minimization DFA\minimization DFA\obj\Debug\net7.0\ref\minimization DFA.dll
+D:\ddd\Computaion theory\minimization DFA\minimization DFA\bin\Debug\net7.0\minimization DFA.exe
+D:\ddd\Computaion theory\minimization DFA\minimization DFA\bin\Debug\net7.0\minimization DFA.deps.json
+D:\ddd\Computaion theory\minimization DFA\minimization DFA\bin\Debug\net7.0\minimization DFA.runtimeconfig.json
+D:\ddd\Computaion theory\minimization DFA\minimization DFA\bin\Debug\net7.0\minimization DFA.dll
+D:\ddd\Computaion theory\minimization DFA\minimization DFA\bin\Debug\net7.0\minimization DFA.pdb
+D:\ddd\Computaion theory\minimization DFA\minimization DFA\obj\Debug\net7.0\minimization DFA.csproj.AssemblyReference.cache
+D:\ddd\Computaion theory\minimization DFA\minimization DFA\obj\Debug\net7.0\minimization DFA.GeneratedMSBuildEditorConfig.editorconfig
+D:\ddd\Computaion theory\minimization DFA\minimization DFA\obj\Debug\net7.0\minimization DFA.AssemblyInfoInputs.cache
+D:\ddd\Computaion theory\minimization DFA\minimization DFA\obj\Debug\net7.0\minimization DFA.AssemblyInfo.cs
+D:\ddd\Computaion theory\minimization DFA\minimization DFA\obj\Debug\net7.0\minimization DFA.csproj.CoreCompileInputs.cache
+D:\ddd\Computaion theory\minimization DFA\minimization DFA\obj\Debug\net7.0\minimization DFA.dll
+D:\ddd\Computaion theory\minimization DFA\minimization DFA\obj\Debug\net7.0\refint\minimization DFA.dll
+D:\ddd\Computaion theory\minimization DFA\minimization DFA\obj\Debug\net7.0\minimization DFA.pdb
+D:\ddd\Computaion theory\minimization DFA\minimization DFA\obj\Debug\net7.0\minimization DFA.genruntimeconfig.cache
+D:\ddd\Computaion theory\minimization DFA\minimization DFA\obj\Debug\net7.0\ref\minimization DFA.dll
